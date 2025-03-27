@@ -6,7 +6,7 @@
 ![](https://github.com/lufonaut-cadet/workshop-bridging-the-gap/actions/workflows/3-merge-pr.yaml/badge.svg)
 
 > Este repositório serve como guia para adoção de práticas GitHub em organizações de maior porte.  
-> Aqui abordamos: criação de organização, configurações essenciais, padronização de ambientes, GitHub Actions e muito mais.
+> Aqui abordamos: criação de organização, conhfigurações essenciais, padronização de ambientes, GitHub Actions e muito mais.
 
 ## Sobre o Workshop
 
